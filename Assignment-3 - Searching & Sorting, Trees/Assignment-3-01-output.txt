@@ -1,0 +1,33 @@
+https://www.youtube.com/watch?v=gn1EFBLb-Ts
+
+Reference: GeeksforGeeks. 2021. Python Program for QuickSort - GeeksforGeeks. [online] Available at: <https://www.geeksforgeeks.org/python-program-for-quicksort/> [Accessed 25 June 2021].
+
+Step-by-step explanation
+
+Code description:
+
+    Import modules.
+    Declare nested class and constructors.
+    Implement functions such as sort by using a quick sort algorithm .
+    Declare a class instance. 
+    Call all function
+    Print the Output.
+
+Output snip:
+
+['Ace of Diamonds', '2 of Diamonds', '3 of Diamonds', '4 of Diamonds', '5 of Diamonds', '6 of Diamonds', '7 of Diamonds', '8 of Diamonds', '9 of Diamonds', '10 of Diamonds', 'Jack of Diamonds', 'Queen of Diamonds', 'King of Diamonds', 'Ace of Clubs', '2 of Clubs', '3 of Clubs', '4 of Clubs', '5 of Clubs', '6 of Clubs', '7 of Clubs', '8 of Clubs', '9 of Clubs', '10 of Clubs', 'Jack of Clubs', 'Queen of Clubs', 'King of Clubs', 'Ace of Hearts', '2 of Hearts', '3 of Hearts', '4 of Hearts', '5 of Hearts', '6 of Hearts', '7 of Hearts', '8 of Hearts', '9 of Hearts', '10 of Hearts', 'Jack of Hearts', 'Queen of Hearts', 'King of Hearts', 'Ace of Spades', '2 of Spades', '3 of Spades', '4 of Spades', '5 of Spades', '6 of Spades', '7 of Spades', '8 of Spades', '9 of Spades', '10 of Spades', 'Jack of Spades', 'Queen of Spades', 'King of Spades']
+Deck after shuffling :
+['8 of Clubs', '5 of Diamonds', 'King of Clubs', 'Jack of Hearts', '2 of Hearts', '7 of Hearts', '5 of Clubs', '3 of Hearts', '9 of Spades', '6 of Hearts', 'Queen of Diamonds', '4 of Hearts', 'Ace of Spades', '6 of Clubs', '9 of Diamonds', '9 of Hearts', 'King of Spades', 'Ace of Hearts', '8 of Spades', '5 of Spades', 'King of Hearts', '8 of Diamonds', '7 of Clubs', '6 of Diamonds', 'King of Diamonds', '2 of Spades', '10 of Clubs', 'Jack of Spades', '7 of Diamonds', '10 of Hearts', '10 of Spades', '3 of Diamonds', '2 of Clubs', 'Queen of Hearts', 'Queen of Spades', 'Ace of Clubs', 'Jack of Clubs', '6 of Spades', '7 of Spades', 'Jack of Diamonds', '2 of Diamonds', '4 of Spades', '4 of Diamonds', 'Ace of Diamonds', '5 of Hearts', '10 of Diamonds', 'Queen of Clubs', '3 of Spades', '9 of Clubs', '8 of Hearts', '3 of Clubs', '4 of Clubs']
+To check if deck is sorted or not:  False
+Deck of cards after sorting.
+ ['10 of Diamonds', '2 of Diamonds', '3 of Diamonds', '4 of Diamonds', '5 of Diamonds', '6 of Diamonds', '7 of Diamonds', '8 of Diamonds', '9 of Diamonds', 'Ace of Diamonds', 'Jack of Diamonds', 'King of Diamonds', 'Queen of Diamonds', '10 of Clubs', '2 of Clubs', '3 of Clubs', '4 of Clubs', '5 of Clubs', '6 of Clubs', '7 of Clubs', '8 of Clubs', '9 of Clubs', 'Ace of Clubs', 'Jack of Clubs', 'King of Clubs', 'Queen of Clubs', '10 of Hearts', '2 of Hearts', '3 of Hearts', '4 of Hearts', '5 of Hearts', '6 of Hearts', '7 of Hearts', '8 of Hearts', '9 of Hearts', 'Ace of Hearts', 'Jack of Hearts', 'King of Hearts', 'Queen of Hearts', '10 of Spades', '2 of Spades', '3 of Spades', '4 of Spades', '5 of Spades', '6 of Spades', '7 of Spades', '8 of Spades', '9 of Spades', 'Ace of Spades', 'Jack of Spades', 'King of Spades', 'Queen of Spades']
+To check if deck is sorted or not:  True
+What suit is the card?
+1. Diamonds
+2. Clubs
+3. Hearts
+4. Spades
+4
+Enter a number from 1 to 13 (1 = Ace, 11 = Jack, 12 = Queen, 13 = King): 4
+4 of Spades
+4 of Spades is present in deck at index 42.
